@@ -2,7 +2,7 @@
   "name": "Windows Server 2003",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "2003"
+    "VERSION": "https://archive.org/download/lh_usa.5.2.3790.Lab06_N.030329-1226_PRO/lh_usa.5.2.3790.Lab06_N.030329-1226_PRO.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
