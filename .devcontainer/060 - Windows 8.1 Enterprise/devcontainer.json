@@ -2,7 +2,7 @@
   "name": "Windows 8.1 Enterprise",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "8e"
+    "VERSION": "https://archive.org/download/msx-02-packet/4000.16769.WINLONGHORN_RTM.130821-1623_X64FRE_PROFESSIONAL_EN-US-IRM_CEI_X64FRE_EN-US_DV5.ISO"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
