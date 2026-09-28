@@ -2,7 +2,7 @@
   "name": "Windows 7 Ultimate",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "7u"
+    "VERSION": "https://archive.org/download/mwvrmg_202405/MWV-RMG.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
