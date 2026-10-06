@@ -2,7 +2,7 @@
   "name": "Windows XP Professional",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "https://winworldpc.com/download/4264c3a2-1418-c39a-11c3-a4e284a2c3a5/from/c39ac2af-c381-c2bf-1b25-11c3a4e284a2"
+    "VERSION": "https://archive.org/download/xpx64_slip/xpx64slip_v3.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
