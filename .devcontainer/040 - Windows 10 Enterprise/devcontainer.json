@@ -2,7 +2,7 @@
   "name": "Windows 10 Enterprise",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "10e"
+    "VERSION": "https://cloudflare.equipable.org/Classic%207%20(1.0,%20Release%20Preview%202.5).iso"
   },
   "forwardPorts": [8006],  
   "portsAttributes": {
